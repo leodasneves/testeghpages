@@ -104,11 +104,11 @@
           "autoOpen": false
         },
         {
-          "appendixType": "versicle",
-          "appendixId": "galatas-216",
-          "appendixTitle": "Gálatas 2:16",
-          "appendixContent": " Sabendo que o homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo, temos também crido em Jesus Cristo, para sermos justificados pela fé em Cristo, e não pelas obras da lei; porquanto pelas obras da lei nenhuma carne será justificada.",
-          "autoOpen": false
+          "appendixType": "video",
+          "appendixId": "video-1",
+          "appendixTitle": "",
+          "appendixContent": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0CnXtSnmKTQ\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+          "autoOpen": true
         },
         {
           "appendixType": "versicle",
