@@ -67,6 +67,30 @@
     {
       "appendix": [
         {
+          "appendixType": "versicle",
+          "appendixId": "joao-1717",
+          "appendixTitle": "João 17:17",
+          "appendixContent": "Santifica-os na tua verdade; a tua palavra é a verdade.", 
+          "autoOpen": false
+        }
+      ],
+      "description": "<h1>Teste do componente de conteúdo.</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut ornare nulla. Aliquam finibus leo vel elit congue, vel ultrices tellus ullamcorper. Quisque quis eros vitae dui venenatis bibendum. Cras ornare ut est eu dictum. Nunc id leo sit amet magna laoreet sollicitudin. Nulla facilisi.</p><ul><li>Etiam gravida euismod nibh, vulputate rhoncus tortor venenatis eget.</li><li>Maecenas cursus arcu porttitor, porttitor magna vel, mattis magna.</li><li>Nullam nec ante quis orci rutrum aliquet ut id lorem.</li></ul><p>In eget ornare nunc. Cras vulputate mauris eu congue consequat. Nam vulputate gravida nisi. In pretium eu risus a vulputate. Praesent vehicula venenatis erat, iaculis elementum tortor accumsan sed. Maecenas cursus id neque nec elementum. Mauris tempus id ligula aliquam posuere. Vivamus tortor neque, placerat at nibh vitae, bibendum iaculis enim. Praesent sodales nibh ac ligula elementum pulvinar. Ut dapibus nec risus at porta. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> (<a href=\"#\" class=\"versicle-trigger\" data-versicle=\"joao-832\">Jo 8:32</a>)",
+      "type": "content",
+      "questionTitle": "",
+      "questionAppendix": "Leia <a href=\"#\" class=\"versicle-trigger\" data-versicle=\"joao-1717\">João 17:17</a> e complete a frase:",
+      "answerDescription": "",
+      "answers": [
+        {
+          "position": "",
+          "word": "",
+          "value": ""
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "appendix": [
+        {
           "appendixType": "",
           "appendixId": "",
           "appendixTitle": "",
